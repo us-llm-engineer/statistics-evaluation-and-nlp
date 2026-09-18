@@ -1,0 +1,6 @@
+# This repo root sits one level above several unrelated project folders.
+# Only the realtor-outreach-ai project (and this README) are ever tracked here.
+/*
+!/realtor-outreach-ai/
+!/README.md
+!/.gitignore
